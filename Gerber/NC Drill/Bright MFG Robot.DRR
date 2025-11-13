@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Bright MFG Robot.PcbDoc   11/13/2025  3:44:43 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Bright MFG Robot.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.305mm (12mil)                                           Round             218       PTH        1627.74mm (64.08inch)
+T2      0.8mm (31mil)                                             Round             24        PTH        115.83mm (4.56inch)
+T3      1.016mm (40mil)                                           Round             11        PTH        25.40mm (1.00inch)
+T4      1.1mm (43mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T5      1.3mm (51mil)                                             Round             6         PTH        44.23mm (1.74inch)
+T6      1.6mm (63mil)                                             Round             3         PTH        9.40mm (0.37inch)
+T7      2.2mm (87mil)                                             Round             2         PTH        14.73mm (0.58inch)
+T8      2.5mm (98mil)                                             Round             8         PTH        129.29mm (5.09inch)
+T9      2.54mm (100mil)                                           Round             2         PTH        26.67mm (1.05inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              278
+
+Total Processing Time (hh:mm:ss) : 00:00:00
